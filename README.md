@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KorYme
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C# via Unity
+- 💞️ I’m looking to collaborate on all kind of video games projects
+- 📫 How to reach me : maxime.corby.pro@gmail.com 
