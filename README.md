@@ -5,4 +5,4 @@
 - 📫 How to reach me : 
   - maxime.corby.pro@gmail.com 
   - https://www.linkedin.com/in/maxime-corby-75824a233/
-  - https://maximecorby.myportfolio.com
+  - https://koryme.github.io/Portfolio
